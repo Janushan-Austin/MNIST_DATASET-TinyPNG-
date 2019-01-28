@@ -1,0 +1,3 @@
+﻿  Application.cpp
+c:\users\austin\documents\cs_classes\personal_projects\mnist_dataset_proccessing\mnist_dataset_proccessing\src\application.cpp(105): warning C4309: 'initializing': truncation of constant value
+  MNIST_DataSet_Proccessing.vcxproj -> C:\Users\Austin\Documents\CS_Classes\Personal_Projects\MNIST_DataSet_Proccessing\Debug\MNIST_DataSet_Proccessing.exe
